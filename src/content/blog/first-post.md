@@ -1,8 +1,8 @@
 ---
 title: 'First post'
-description: 'Lorem ipsum dolor sit amet'
+description: 'Hello world'
 pubDate: 'Jul 08 2022'
-
+heroImage: '../../assets/helloworld.png'
 ---
 
 First Post!
